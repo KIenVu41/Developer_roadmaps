@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Kevin",
+        "age": 25,
+        "isEmployed": true,
+        "hobbies": ["Sing", "Footbal", "Movies"]
+    },
+    {
+        "name": "Spongebob",
+        "age": 23,
+        "isEmployed": false,
+        "hobbies": ["Sing", "Footbal", "Movies"]
+    },
+    {
+        "name": "Tony",
+        "age": 22,
+        "isEmployed": false,
+        "hobbies": ["Sing", "Footbal", "Movies"]
+    },
+    {
+        "name": "Patrick",
+        "age": 21,
+        "isEmployed": true,
+        "hobbies": ["Sing", "Footbal", "Movies"]
+    }
+]
