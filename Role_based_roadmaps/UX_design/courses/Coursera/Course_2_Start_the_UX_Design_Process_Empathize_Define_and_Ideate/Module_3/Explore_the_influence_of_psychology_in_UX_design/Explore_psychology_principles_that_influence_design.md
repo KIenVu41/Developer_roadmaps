@@ -1,0 +1,3 @@
+- The Von Restorff effect (isolation effect): When multiple similar objects are present, the one that differs is most likely to be remembered. UX designers use this effect to make call-to-action buttons stand out.
+- The serial position effect: People are more likely to remember the first and last items in a list. This is why important user actions are often placed at the edges of navigation bars.
+- Hick's law: The more choices a user has, the longer it takes to make a decision. UX designers must balance providing choices with making decision-making overwhelming.

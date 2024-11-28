@@ -1,0 +1,7 @@
+- There are some typical responsibilities of entry level UX designers:
++ Research:  UX design is all about the user! You'll learn how to conduct research to understand user demographics, motivations, pain points, and goals. This helps inform the design process and ensures you're creating user-centered products.
++ Wireframing: Think of this as the blueprint stage. You'll create visual outlines (on paper or digitally) to show the basic structure and layout of a product or screen. 
++ Prototyping:  Taking wireframes a step further, prototypes demonstrate the functionality and flow of a product. They can be as simple as paper sketches or as complex as interactive digital mockups.
++ Information Architecture:  This involves organizing and structuring a website or app in a logical and user-friendly way. Think about menus, navigation, and how information is categorized.
++ Communication: Strong communication skills are crucial! You'll collaborate with colleagues, present your ideas, and communicate design decisions effectively.
+- Remember, these are just some of the core tasks you'll encounter as an entry-level UX designer. The specific responsibilities can vary depending on the company and role. 

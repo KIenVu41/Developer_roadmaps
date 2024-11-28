@@ -1,0 +1,5 @@
+- This video segment explains the differences between generalists, specialists, and T-shaped UX designers. Here's a breakdown:
++ Generalists: These designers wear many hats and have a broad range of responsibilities. They're involved in various tasks, such as user research, branding, UX writing, and more. Generalists are often found in smaller companies or early in their careers.
++ Specialists: These designers have deep expertise in a specific area of UX design, like interaction design or visual design. They typically work in larger companies with larger design teams.
++ T-Shaped Designers: These designers combine specialization with a broader understanding of other UX areas. They have deep expertise in one area (the vertical line of the T) and a breadth of knowledge in other areas (the horizontal line of the T).
+- The video emphasizes that your career path might depend on your workplace and opportunities. It encourages continuous learning and exploration within UX design, regardless of your chosen path.

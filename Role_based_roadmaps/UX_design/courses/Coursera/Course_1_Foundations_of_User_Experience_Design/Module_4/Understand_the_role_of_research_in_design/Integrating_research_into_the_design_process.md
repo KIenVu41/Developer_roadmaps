@@ -1,0 +1,12 @@
+You have been introduced to user experience (UX) design, and you’ve gotten to know the tools, common terms, frameworks, process, and goals of design sprints. Now, let’s start to explore the world of UX research. 
+
+UX research is an important part of the design thinking framework—particularly when it comes to the empathize and define phases. The first rule of UX design is that the user comes first, so it makes sense to perform research and learn as much as possible about user behaviors, needs, and motivations in order to inform early design decisions. 
+
+Take the development of a ride-sharing app as an example. During the empathize phase, UX designers can conduct interviews with potential users to understand their pain points and needs related to transportation. This feedback helps the design team to empathize with users and identify their expectations and challenges when it comes to finding, using, and paying for transportation.
+
+Later, in the define phase, designers can gather user feedback through surveys or focus groups. This data helps the team prioritize the key features and functionalities that should be included in the app. This data also helps set clear design goals based on user needs to clearly articulate the main challenge to be addressed. For example, the transportation app design team might define goals such as, “Create a user-friendly app that offers a wide range of transportation options, ensures transparent pricing, and provides a seamless payment experience.”
+
+UX research activities can continue throughout the entire design process. User feedback, user testing, and validation of design decisions against user needs are all valuable data points occurring at every phase of the design thinking framework. For example, during the prototype phase, UX designers create interactive prototypes of the ride-sharing app based on the validated design ideas. These prototypes are then tested with potential users who provide feedback on the app's flow, layout, and interactions, ensuring that it aligns with their needs.
+
+As you dive deeper into UX Research in this certificate, remember that it's your job to put the user front and center in everything you do as a UX designer. Throughout this certificate, you'll explore the role of research in each part of the design process to help you empathize with users. You'll also learn about the benefits and drawbacks of common UX research methods. Finally, you'll identify and account for biases that can arise when conducting research.
+

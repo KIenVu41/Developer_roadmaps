@@ -1,0 +1,6 @@
+- Good design is easy to spot, but often difficult to define. What makes a product effective for its users? Is it a matter of simplicity, structure, or function? The answer depends on the product in question.
+- In the previous video, “User Experience Designer Basics,” you were introduced to some of the key characteristics of good UX. These characteristics — usable, fair , enjoyable , and useful—can help you evaluate a product’s design.
++ Usable: The design is clear, easy to understand, and simple to use. Think: Can users find what they need and easily accomplish their goals?
++ Equitable: The design considers the needs of diverse users with varying abilities and backgrounds, ensuring a high-quality experience for all. Think: Does the design cater to a wide range of users and their unique needs?
++ Enjoyable: The design creates a positive emotional connection with the user, making the experience delightful and engaging. Think: Does the design evoke positive feelings and keep users engaged?
++ Useful: The design effectively solves a specific user problem. Think: Does the design provide value and help users achieve their goals?

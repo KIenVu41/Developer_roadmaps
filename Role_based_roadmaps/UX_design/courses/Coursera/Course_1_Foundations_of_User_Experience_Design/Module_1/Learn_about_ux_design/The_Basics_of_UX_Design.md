@@ -1,0 +1,6 @@
+- The user experience is how a person, the user, feels about interacting with or experiencing a product. A product is a good, service, or feature. It might be a physical product, like a video game controller or a bag of potato chips, or a technology product, like an app, website, or smartwatch. There are many things that can make up a good user experience.
+- for a user to have a good experience, the product needs to be:
++ usable: UX designers need to think about every person who uses the product. This might include people with disabilities, or people with very different life experiences from your own. For example, one user might find an app with a lot of text easy to use. On the other hand, a user with a visual impairment might want different features like sound.
++ equitable:  your designs are useful and marketable to people with diverse abilities and backgrounds.
++ enjoyable, 
++ useful: they solve our problems. For example, if you're lost, a map app telling you how to get home is useful. But if the app can't find your current location, it's not so useful anymore.

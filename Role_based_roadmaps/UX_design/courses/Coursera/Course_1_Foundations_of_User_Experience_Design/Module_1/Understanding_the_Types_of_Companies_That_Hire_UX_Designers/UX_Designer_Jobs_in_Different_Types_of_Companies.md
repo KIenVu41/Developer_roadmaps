@@ -1,0 +1,7 @@
+- This lecture explores the different types of companies that hire UX designers and how the role might differ based on company size and industry. 
++ Startups and Small Businesses: These companies often have limited budgets and staff, requiring UX designers to be versatile and wear multiple hats. You might be involved in interaction design, visual design, user research, and even marketing.
++ Freelancing: Freelancers enjoy flexibility and project variety, choosing their clients and setting their schedules. They are responsible for their own marketing and finding clients.
++ Advertising Agencies: These agencies create marketing campaigns for clients. UX designers in this setting might develop wireframes and designs for digital products within a campaign. They may also contribute to graphic design or writing tasks.
++ Design Agencies and Studios: These agencies specialize in brand aesthetics, product design, and services. UX designers in this environment often work as generalists, similar to those in startups. They work with diverse clients and projects, often not seeing a project through from start to finish.
++ Large Companies: Large corporations often have specialized UX roles where designers focus on specific projects from inception to completion. This allows for deep expertise in a particular area of UX design.
+Thinking about where you'd like to work and what kind of role you see yourself in can help you focus your learning on the skills that will be most valuable in that path. Do any of these work environments sound particularly interesting to you? 

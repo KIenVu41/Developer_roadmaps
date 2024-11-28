@@ -1,0 +1,4 @@
+- Internships: Short-term jobs, limited responsibility, focused on learning, may lead to full-time roles.
+- Apprenticeships: Longer than internships (1-2 years), paid, provide on-the-job training.
+- Freelancing: Working for yourself, finding your own clients, great for gaining experience and building your portfolio.
+- Entry-level Jobs: Roles that don't require prior experience, perfect for starting your UX design career after completing this program.

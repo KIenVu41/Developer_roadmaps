@@ -1,0 +1,6 @@
+- Design Sprint Recap: The video begins by recapping the five phases of a design sprint, emphasizing your role as an entry-level UX designer.
+- Your Role in the Sprint: It highlights that while you may not be leading the sprint, you'll actively contribute to each phase.
+- Daily Sprint Life: It describes what to expect in a typical sprint environment and how each day unfolds.
+- Phase-by-Phase Breakdown: The video breaks down each of the five phases (Understand, Ideate, Decide, Prototype, Test), outlining your specific responsibilities as a newbie UX designer.
+- Importance of Testing and Iteration: It emphasizes the significance of user testing and how feedback helps refine the product before launch.
+- Teamwork Makes the Dream Work: The video concludes by highlighting that a design sprint is a team effort, and your contributions, alongside those of your team members, are crucial for success.
